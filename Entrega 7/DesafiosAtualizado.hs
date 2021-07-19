@@ -32,7 +32,7 @@ primos 3 = True
 primos n = length [x | x <- [2..div n 2], mod n x == 0] == 0
 
 gerar :: Int -> [Int]
-gerar n = [x | x <- [2..n], primos x
+gerar n = [x | x <- [2..n], primos x]
 
 maxpot :: Int -> Int -> Int
 maxpot 0 _ = 0
@@ -75,6 +75,6 @@ toUpper' a = map toUpper a
 
 vigenere [] _ = []
 vigenere a [] = []
-vigenere a b = map (\x -> (get_letter (calc (fst x) (snd x)))) (zip (toUpper' a) (toUpper' b)
+vigenere a b = map (\x -> (get_letter (calc (fst x) (snd x)))) (zip (toUpper' a) (toUpper' b))
 
  
