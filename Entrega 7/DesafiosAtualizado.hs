@@ -32,7 +32,7 @@ primos 3 = True
 primos n = length [x | x <- [2..div n 2], mod n x == 0] == 0
 
 gerar :: Int -> [Int]
-gerar n = [x | x <- [2..n], primos x]
+gerar n = [x | x <- [2..n], primos x
 
 maxpot :: Int -> Int -> Int
 maxpot 0 _ = 0
