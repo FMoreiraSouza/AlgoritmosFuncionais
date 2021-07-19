@@ -12,9 +12,9 @@ expoente n = 2^n
 
 gerador1 = 0:[g | g <- [1 ..], g <- [g, -g]] 
 
-gerador2 = take 10 [pares g | x <- [1 ..]]
+gerador2 = [pares g | x <- [1 ..]]
 
-gerador3 = take 10 (1:[  expoente g |  g <- [1 ..]])
+gerador3 = (1:[  expoente g |  g <- [1 ..]])
 
 gerador4 n = takeWhile ( > 0) (iterate (\g -> div g 2) n)
 
