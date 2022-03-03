@@ -1,3 +1,5 @@
+# Operações básicas
+
 ## Exercícios
 
 1.  [CountNoPosit](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Exerc%C3%ADcios/CountNoPosit.md)
