@@ -19,17 +19,3 @@ Com o compilador do haskell instalado na máquina, as seguintes etapas devem ser
 
 ## Exemplo
 ![Execução](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Exemplo%20de%20execu%C3%A7%C3%A3o.png)
-
-# Operações básicas
-
-
-## Recursão
-
-## Lista de dados
-
-## Geradores, fatores e criprografia
-
-## Carro ecológico
-
-## Armário
-
