@@ -20,11 +20,9 @@ Com o compilador do haskell instalado na máquina, as seguintes etapas devem ser
 ## Exemplo
 ![Execução](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Exemplo%20de%20execu%C3%A7%C3%A3o.png)
 
-# Tópicos
+# Lista de exercícios por Tópicos
 
 ## Operações básicas
-
-### Exercícios
 
 1.  [CountNoPosit](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Exerc%C3%ADcios/CountNoPosit.md)
 2.  [Final](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Exerc%C3%ADcios/Final.md)
@@ -53,6 +51,7 @@ Com o compilador do haskell instalado na máquina, as seguintes etapas devem ser
 25. [Euler](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Exerc%C3%ADcios/Euler.md)
 
 # Resoluções
+
 [Operações básicas](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Opera%C3%A7%C3%B5es%20b%C3%A1sicas.hs)
 
 ## Recursão
