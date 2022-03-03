@@ -1,6 +1,6 @@
 # Algoritmos Funcionais
 
-Resoluções enxercícios da Programação Funcional.
+Resoluções de exercícios da Programação Funcional.
 
 # Ferramentas e Tecnologias
 
