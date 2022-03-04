@@ -30,4 +30,4 @@
 
 ## Resoluções
 
-[Operações básicas](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Opera%C3%A7%C3%B5es%20b%C3%A1sicas.hs)
+[Soluções](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Opera%C3%A7%C3%B5es%20b%C3%A1sicas.hs)
