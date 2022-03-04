@@ -14,4 +14,4 @@
 
 ## Resoluções
 
-[Lista de dados](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Lista%20de%20dados/Lista%20de%20dados.hs)
+[Arquivo em Haskell](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Lista%20de%20dados/Lista%20de%20dados.hs)
