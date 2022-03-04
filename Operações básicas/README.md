@@ -30,4 +30,4 @@
 
 ## Resoluções
 
-[Arquivo Haskell](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Opera%C3%A7%C3%B5es%20b%C3%A1sicas.hs)
+[Arquivo em Haskell](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Opera%C3%A7%C3%B5es%20b%C3%A1sicas/Opera%C3%A7%C3%B5es%20b%C3%A1sicas.hs)
