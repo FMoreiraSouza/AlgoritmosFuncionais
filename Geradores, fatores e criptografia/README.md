@@ -6,7 +6,7 @@
 
 ## Resoluções
 
-[Geradores, fatores e criptografia](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Geradores%2C%20fatores%20e%20criptografia/Geradores%2C%20fatores%20e%20criptografia.hs)
+[Arquivo em Haskell](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Geradores%2C%20fatores%20e%20criptografia/Geradores%2C%20fatores%20e%20criptografia.hs)
 
 
 
