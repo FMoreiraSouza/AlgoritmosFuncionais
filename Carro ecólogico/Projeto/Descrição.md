@@ -187,4 +187,4 @@ class Manual {
 }
 ```
 <!--FILTER_END-->
-
+.
