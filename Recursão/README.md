@@ -24,5 +24,5 @@
 
 ## Resoluções
 
-[Recursão](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Recurs%C3%A3o/Recursividade.hs)
+[Arquivo em Haskell](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Recurs%C3%A3o/Recursividade.hs)
 
