@@ -75,5 +75,3 @@ toUpper' a = map toUpper a
 vigenere [] _ = []
 vigenere a [] = []
 vigenere a b = map (\x -> (get_letter (calc (fst x) (snd x)))) (zip (toUpper' a) (toUpper' b))
-
- .
