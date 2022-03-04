@@ -14,4 +14,4 @@
 
 ## Resoluções
 
-[Recursão](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Lista%20de%20dados/Lista%20de%20dados.hs)
+[Lista de dados](https://github.com/Fmoreira12/AlgoritmosFuncionais/blob/master/Lista%20de%20dados/Lista%20de%20dados.hs)
